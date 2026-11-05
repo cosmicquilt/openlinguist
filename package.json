@@ -1,0 +1,16 @@
+{
+  "name": "openlinguist",
+  "version": "0.4.0",
+  "description": "Stremio addon that shows subtitles in two languages at once, sourced from OpenSubtitles",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "desktop": "node desktop/launch.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
