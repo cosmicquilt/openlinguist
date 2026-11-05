@@ -128,3 +128,9 @@ Stremio on phones and TVs only installs addons over HTTPS. To use it there, host
 ```bash
 npm test
 ```
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
+
+The word table in `data/` was learned from the OPUS OpenSubtitles corpus (P. Lison and J. Tiedemann, 2016, "OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles", LREC 2016). Credit them if you reuse it.
